@@ -1,0 +1,9 @@
+# path/to/project/root/.eslintignore
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+
+# Ignore built files except build/chooseEmail.jsx
+build/*
+src/components/No se utiliza/_NumberFormatter/number_format.jsx
+src/components/No se utiliza/_NumberFormatter/utils.jsx
+src/serviceWorker.js
+src/system/router/PrivateRoute.jsx
