@@ -1,0 +1,2223 @@
+{
+  "general": {
+    "workTime": [
+      {
+        "label": "Tiempo completo (8 hrs/dia)",
+        "value": "Full"
+      },
+      {
+        "label": "Medio tiempo (menos 8 hrs/dia)",
+        "value": "Half"
+      },
+      {
+        "label": "Flexible",
+        "value": "Flexible"
+      },
+      {
+        "label": "Otro",
+        "value": "Other"
+      }
+    ],
+    "modality": [
+      {
+        "label": "Remoto",
+        "value": "Remote"
+      },
+      {
+        "label": "Presencial",
+        "value": "Physical"
+      }
+    ],
+    "workDays": [
+      {
+        "label": "Lunes a Viernes",
+        "value": "Weekdays"
+      },
+      {
+        "label": "Semana completa - 6 días con 1 día libre (Rotativo)",
+        "value": "FullWeek"
+      },
+      {
+        "label": "Semana completa - 5 días con 2 día libre (Rotativo)",
+        "value": "FullWeek2"
+      }
+    ],
+    "workTurns": [
+      {
+        "label": "Horario diurno (8:00 a 8:00 hrs)",
+        "value": "Morning"
+      },
+      {
+        "label": "Nocturno (20:00 a 6:00 hrs)",
+        "value": "Evening"
+      },
+      {
+        "label": "Mixto (3.5 horas del turno nocturno y turno de día)",
+        "value": "Mixed"
+      }
+    ],
+    "payForm": [
+      {
+        "label": "Semanal",
+        "value": "Weekly"
+      },
+      {
+        "label": "Quincenal",
+        "value": "Biweekly"
+      },
+      {
+        "label": "Mensual",
+        "value": "Monthly"
+      }
+    ],
+    "currency": [
+      {
+        "label": "MXN",
+        "value": "MXN"
+      },
+      {
+        "label": "USD",
+        "value": "USD"
+      }
+    ],
+    "typePosition": [
+      {
+        "label": "Dirección y administración de empresas  ",
+        "value": "Dirección y administración de empresas  ",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Negocios internacionales",
+        "value": "Negocios internacionales",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Negocios digitales",
+        "value": "Negocios digitales",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Desarrollador de Negocios",
+        "value": "Desarrollador de Negocios",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Coordinador de Logística Internacional",
+        "value": "Coordinador de Logística Internacional",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Consultor externo",
+        "value": "Consultor externo",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Gestor",
+        "value": "Gestor",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Banca internacional",
+        "value": "Banca internacional",
+        "industry": "Negocios"
+      },
+      {
+        "label": "Estrategia empresarial",
+        "value": "Estrategia empresarial",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Especialista en comercio electrónico",
+        "value": " Especialista en comercio electrónico",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Jefe de ventas al por menor",
+        "value": " Jefe de ventas al por menor",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Director de logística",
+        "value": " Director de logística",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": "Coordinador de operaciones",
+        "value": "Coordinador de operaciones",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Consultor principal",
+        "value": " Consultor principal",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": "Especialista en cadena de suministro",
+        "value": "Especialista en cadena de suministro",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": "Distribución",
+        "value": "Distribución",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Coordinador de planta",
+        "value": " Coordinador de planta",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Comprador Sr.",
+        "value": " Comprador Sr.",
+        "industry": "Operaciones\/Logística"
+      },
+      {
+        "label": " Encargado de UI\/UX",
+        "value": " Encargado de UI\/UX",
+        "industry": "Producto"
+      },
+      {
+        "label": "Consultor de desarrollo",
+        "value": "Consultor de desarrollo",
+        "industry": "Producto"
+      },
+      {
+        "label": " Productos de consumo",
+        "value": " Productos de consumo",
+        "industry": "Producto"
+      },
+      {
+        "label": " Director de innovación",
+        "value": " Director de innovación",
+        "industry": "Producto"
+      },
+      {
+        "label": "Diseñador\/investigador de UX",
+        "value": "Diseñador\/investigador de UX",
+        "industry": "Producto"
+      },
+      {
+        "label": "Responsable de diseño",
+        "value": "Responsable de diseño",
+        "industry": "Producto"
+      },
+      {
+        "label": " Diseñador de productos",
+        "value": " Diseñador de productos",
+        "industry": "Producto"
+      },
+      {
+        "label": "Scrum master",
+        "value": "Scrum master",
+        "industry": "Producto"
+      },
+      {
+        "label": "Diseñador de UI\/UX",
+        "value": "Diseñador de UI\/UX",
+        "industry": "Producto"
+      },
+      {
+        "label": " Jefe de producto",
+        "value": " Jefe de producto",
+        "industry": "Producto"
+      },
+      {
+        "label": "Especialista en contenidos",
+        "value": "Especialista en contenidos",
+        "industry": "Impresión y publicación*"
+      },
+      {
+        "label": " Especialista en SEO",
+        "value": " Especialista en SEO",
+        "industry": "Impresión y publicación*"
+      },
+      {
+        "label": "Redactor publicitario",
+        "value": "Redactor publicitario",
+        "industry": "Impresión y publicación*"
+      },
+      {
+        "label": "Traductor",
+        "value": "Traductor",
+        "industry": "Impresión y publicación*"
+      },
+      {
+        "label": "Jefe de seguridad de la información",
+        "value": "Jefe de seguridad de la información",
+        "industry": "Seguridad"
+      },
+      {
+        "label": "Seguridad en la nube",
+        "value": "Seguridad en la nube",
+        "industry": "Seguridad"
+      },
+      {
+        "label": " DevSecOps (Development, Security, and Operations)",
+        "value": " DevSecOps (Development, Security, and Operations)",
+        "industry": "Seguridad"
+      },
+      {
+        "label": " Seguridad de TI",
+        "value": " Seguridad de TI",
+        "industry": "Seguridad"
+      },
+      {
+        "label": " Gestor de riesgos",
+        "value": " Gestor de riesgos",
+        "industry": "Seguridad"
+      },
+      {
+        "label": "Asistente del CISO",
+        "value": "Asistente del CISO",
+        "industry": "Seguridad"
+      },
+      {
+        "label": " Ingeniero de ciberseguridad",
+        "value": " Ingeniero de ciberseguridad",
+        "industry": "Seguridad"
+      },
+      {
+        "label": "Jefe de riesgos",
+        "value": "Jefe de riesgos",
+        "industry": "Seguridad"
+      },
+      {
+        "label": "Tester",
+        "value": "Tester",
+        "industry": "Seguridad"
+      },
+      {
+        "label": " Arquitecto de seguridad",
+        "value": " Arquitecto de seguridad",
+        "industry": "Seguridad"
+      },
+      {
+        "label": "Ejecutivo de cuentas",
+        "value": "Ejecutivo de cuentas",
+        "industry": "Ventas"
+      },
+      {
+        "label": " Desarrollo del negocio",
+        "value": " Desarrollo del negocio",
+        "industry": "Ventas"
+      },
+      {
+        "label": " Director General- CEO",
+        "value": " Director General- CEO",
+        "industry": "Ventas"
+      },
+      {
+        "label": "Director comercial",
+        "value": "Director comercial",
+        "industry": "Ventas"
+      },
+      {
+        "label": " Representante de Ventas",
+        "value": " Representante de Ventas",
+        "industry": "Ventas"
+      },
+      {
+        "label": "Vendedor de Call Center",
+        "value": "Vendedor de Call Center",
+        "industry": "Ventas"
+      },
+      {
+        "label": " Jefe de ventas",
+        "value": " Jefe de ventas",
+        "industry": "Ventas"
+      },
+      {
+        "label": "Responsable de ventas",
+        "value": "Responsable de ventas",
+        "industry": "Ventas"
+      },
+      {
+        "label": " Especialista en crecimiento",
+        "value": " Especialista en crecimiento",
+        "industry": "Ventas"
+      },
+      {
+        "label": "Asistente de ventas",
+        "value": "Asistente de ventas",
+        "industry": "Ventas"
+      },
+      {
+        "label": "Gestor de cuentas clave",
+        "value": "Gestor de cuentas clave",
+        "industry": "Ventas"
+      },
+      {
+        "label": "Jefe de control de calidad",
+        "value": "Jefe de control de calidad",
+        "industry": "Testing"
+      },
+      {
+        "label": " Probador de control de calidad",
+        "value": " Probador de control de calidad",
+        "industry": "Testing"
+      },
+      {
+        "label": "Director de control de calidad",
+        "value": "Director de control de calidad",
+        "industry": "Testing"
+      },
+      {
+        "label": "Ingeniero de automatización de pruebas",
+        "value": "Ingeniero de automatización de pruebas",
+        "industry": "Testing"
+      },
+      {
+        "label": " Desarrollador WEB",
+        "value": " Desarrollador WEB",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": " Business Intelligence",
+        "value": " Business Intelligence",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": "Desarrollo de Software",
+        "value": "Desarrollo de Software",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": "Programador",
+        "value": "Programador",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": " Especialista en SAP",
+        "value": " Especialista en SAP",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": " Ingeniero informático en la nube",
+        "value": " Ingeniero informático en la nube",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": " Ingeniero de datos",
+        "value": " Ingeniero de datos",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": "Tester",
+        "value": "Tester",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": " Analista de calidad",
+        "value": " Analista de calidad",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": "Especialista en Seguridad de la información",
+        "value": "Especialista en Seguridad de la información",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": " Implementador ERP",
+        "value": " Implementador ERP",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": "Gerente de Sistemas",
+        "value": "Gerente de Sistemas",
+        "industry": " Tecnología de la información"
+      },
+      {
+        "label": "Picker Distribución",
+        "value": "Picker Distribución",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Preparador de pedidos",
+        "value": "Preparador de pedidos",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Emplayador",
+        "value": "Emplayador",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Picker Banda Alimentador",
+        "value": "Picker Banda Alimentador",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Maniobrista de descargas",
+        "value": "Maniobrista de descargas",
+        "industry": "Operativos"
+      },
+      {
+        "label": " Maniobrista",
+        "value": " Maniobrista",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Supervisor de operaciones",
+        "value": "Supervisor de operaciones",
+        "industry": "Operativos"
+      },
+      {
+        "label": " Auxiliar de almacén",
+        "value": " Auxiliar de almacén",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Montacarguista ",
+        "value": "Montacarguista ",
+        "industry": "Operativos"
+      },
+      {
+        "label": "Analista contable ",
+        "value": "Analista contable ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Analista financiero ",
+        "value": "Analista financiero ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Analista y tasador ",
+        "value": "Analista y tasador ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Asesor fiscal ",
+        "value": "Asesor fiscal ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Asesor financiero ",
+        "value": "Asesor financiero ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Auditor",
+        "value": "Auditor",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Auxiliar contable",
+        "value": "Auxiliar contable",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Controller",
+        "value": "Controller",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Gerente de contabilidad ",
+        "value": "Gerente de contabilidad ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Jefe de contabilidad ",
+        "value": "Jefe de contabilidad ",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Tesorero",
+        "value": "Tesorero",
+        "industry": " Finanzas y contabilidad "
+      },
+      {
+        "label": "Auxiliar de instalación ",
+        "value": "Auxiliar de instalación ",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Electricista",
+        "value": "Electricista",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Instalador de fibra óptica",
+        "value": "Instalador de fibra óptica",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Instalador de sistemas de seguridad",
+        "value": "Instalador de sistemas de seguridad",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Técnico instalador de cableado estructurado",
+        "value": "Técnico instalador de cableado estructurado",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Técnico instalador de redes ",
+        "value": "Técnico instalador de redes ",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Técnico instalador de sistemas especializados",
+        "value": "Técnico instalador de sistemas especializados",
+        "industry": "Infraestructura y construcción"
+      },
+      {
+        "label": "Legal",
+        "value": "Legal",
+        "industry": "Legal"
+      },
+      {
+        "label": "Analista jurídico ",
+        "value": "Analista jurídico ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Asesor jurídico ",
+        "value": "Asesor jurídico ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Asistente legal ",
+        "value": "Asistente legal ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Asistente legal administrativo ",
+        "value": "Asistente legal administrativo ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Asistente personal ",
+        "value": "Asistente personal ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Auxiliar administrativo en área jurídica",
+        "value": "Auxiliar administrativo en área jurídica",
+        "industry": "Legal"
+      },
+      {
+        "label": "Auxiliar de recepción ",
+        "value": "Auxiliar de recepción ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Notario público ",
+        "value": "Notario público ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Pasante de derecho ",
+        "value": "Pasante de derecho ",
+        "industry": "Legal"
+      },
+      {
+        "label": "Retail",
+        "value": "Retail",
+        "industry": "Retail"
+      },
+      {
+        "label": "Management ",
+        "value": "Management ",
+        "industry": "Management "
+      },
+      {
+        "label": "Coordinador de área ",
+        "value": "Coordinador de área ",
+        "industry": "Management "
+      },
+      {
+        "label": "Coordinador de equipo ",
+        "value": "Coordinador de equipo ",
+        "industry": "Management "
+      },
+      {
+        "label": "Coordinador de proyecto ",
+        "value": "Coordinador de proyecto ",
+        "industry": "Management "
+      },
+      {
+        "label": "Director administrativo ",
+        "value": "Director administrativo ",
+        "industry": "Management "
+      },
+      {
+        "label": "Director de área ",
+        "value": "Director de área ",
+        "industry": "Management "
+      },
+      {
+        "label": "Gerente administrativo ",
+        "value": "Gerente administrativo ",
+        "industry": "Management "
+      },
+      {
+        "label": "Gerente contable ",
+        "value": "Gerente contable ",
+        "industry": "Management "
+      },
+      {
+        "label": "Gerente de almacén ",
+        "value": "Gerente de almacén ",
+        "industry": "Management "
+      },
+      {
+        "label": "Gerente de equipo ",
+        "value": "Gerente de equipo ",
+        "industry": "Management "
+      },
+      {
+        "label": "Gerente de proyecto ",
+        "value": "Gerente de proyecto ",
+        "industry": "Management "
+      },
+      {
+        "label": "Marketing ",
+        "value": "Marketing ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Community Manager ",
+        "value": "Community Manager ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Especialista en campañas pagadas ",
+        "value": "Especialista en campañas pagadas ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Especialista de contenido",
+        "value": "Especialista de contenido",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Especialista en email marketing ",
+        "value": "Especialista en email marketing ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Especialista en marketing digital ",
+        "value": "Especialista en marketing digital ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Especialista en relaciones públicas",
+        "value": "Especialista en relaciones públicas",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Especialista en SEO ",
+        "value": "Especialista en SEO ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Gerente de Marca",
+        "value": "Gerente de Marca",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Gerente de Redes Sociales",
+        "value": "Gerente de Redes Sociales",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Responsable de Redes Sociales ",
+        "value": "Responsable de Redes Sociales ",
+        "industry": "Marketing "
+      },
+      {
+        "label": "Recursos Humanos ",
+        "value": "Recursos Humanos ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Administración de personal ",
+        "value": "Administración de personal ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Especialista de capacitación",
+        "value": "Especialista de capacitación",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Especialista de reclutamiento y selección",
+        "value": "Especialista de reclutamiento y selección",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Especialista en compensación ",
+        "value": "Especialista en compensación ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Especialista en desarrollo organizacional ",
+        "value": "Especialista en desarrollo organizacional ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Generalista de Recursos Humanos ",
+        "value": "Generalista de Recursos Humanos ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Gerente de Recursos Humanos ",
+        "value": "Gerente de Recursos Humanos ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Gerente de Talento ",
+        "value": "Gerente de Talento ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "HRBP",
+        "value": "HRBP",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Responsable de formación y desarrollo ",
+        "value": "Responsable de formación y desarrollo ",
+        "industry": "Recursos Humanos "
+      },
+      {
+        "label": "Administración",
+        "value": "Administración",
+        "industry": "Administración"
+      },
+      {
+        "label": "Administración",
+        "value": "Administración",
+        "industry": "Administración"
+      },
+      {
+        "label": "Gerente de sucursal",
+        "value": "Gerente de sucursal",
+        "industry": "Administración"
+      },
+      {
+        "label": "Recepcionista",
+        "value": "Recepcionista",
+        "industry": "Administración"
+      },
+      {
+        "label": "Secretaria o asistente administrativa",
+        "value": "Secretaria o asistente administrativa",
+        "industry": "Administración"
+      },
+      {
+        "label": "Asistente bilingüe",
+        "value": "Asistente bilingüe",
+        "industry": "Administración"
+      },
+      {
+        "label": "Ayudante general",
+        "value": "Ayudante general",
+        "industry": "Administración"
+      },
+      {
+        "label": "Auxiliar administrativo",
+        "value": "Auxiliar administrativo",
+        "industry": "Administración"
+      },
+      {
+        "label": "Auxiliar de contabilidad",
+        "value": "Auxiliar de contabilidad",
+        "industry": "Administración"
+      },
+      {
+        "label": "Comprador",
+        "value": "Comprador",
+        "industry": "Administración"
+      },
+      {
+        "label": "Analista de calidad",
+        "value": "Analista de calidad",
+        "industry": "Administración"
+      },
+      {
+        "label": "Ejecutivo telefónico",
+        "value": "Ejecutivo telefónico",
+        "industry": "Administración"
+      },
+      {
+        "label": "Capturista",
+        "value": "Capturista",
+        "industry": "Administración"
+      },
+      {
+        "label": "Becario",
+        "value": "Becario",
+        "industry": "Administración"
+      },
+      {
+        "label": "Comercio",
+        "value": "Comercio",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Agente Aduanero",
+        "value": "Agente Aduanero",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Empleado público",
+        "value": "Empleado público",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Analista de seguros de carga internacional",
+        "value": "Analista de seguros de carga internacional",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Ejecutivo de ventas de hotel",
+        "value": "Ejecutivo de ventas de hotel",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Analista comercial de empresas exportadoras",
+        "value": "Analista comercial de empresas exportadoras",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Consultor independiente",
+        "value": "Consultor independiente",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Profesor de Comercio Internacional",
+        "value": "Profesor de Comercio Internacional",
+        "industry": "Comercio"
+      },
+      {
+        "label": "Salud",
+        "value": "Salud",
+        "industry": "Salud"
+      },
+      {
+        "label": "Médico del trabajo     ",
+        "value": "Médico del trabajo     ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Enfermero\/a del trabajo          ",
+        "value": "Enfermero\/a del trabajo          ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Enfermero\/a de quirófano      ",
+        "value": "Enfermero\/a de quirófano      ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Enfermero\/a de UCI   ",
+        "value": "Enfermero\/a de UCI   ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Médico Especialista en Cuidados Intensivos    ",
+        "value": "Médico Especialista en Cuidados Intensivos    ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Dirección de Enfermería          ",
+        "value": "Dirección de Enfermería          ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Traumatólogo  ",
+        "value": "Traumatólogo  ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Médico Ginecólogo    ",
+        "value": "Médico Ginecólogo    ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Gerente de hospital   ",
+        "value": "Gerente de hospital   ",
+        "industry": "Salud"
+      },
+      {
+        "label": "Médico Dermatólogo",
+        "value": "Médico Dermatólogo",
+        "industry": "Salud"
+      },
+      {
+        "label": "Educación",
+        "value": "Educación",
+        "industry": "Educación"
+      },
+      {
+        "label": "Director(a) Escolar",
+        "value": "Director(a) Escolar",
+        "industry": "Educación"
+      },
+      {
+        "label": "Jefe de Estudios",
+        "value": "Jefe de Estudios",
+        "industry": "Educación"
+      },
+      {
+        "label": "Profesores",
+        "value": "Profesores",
+        "industry": "Educación"
+      },
+      {
+        "label": "Asistente o Auxiliar",
+        "value": "Asistente o Auxiliar",
+        "industry": "Educación"
+      },
+      {
+        "label": "Psicólogo (a)",
+        "value": "Psicólogo (a)",
+        "industry": "Educación"
+      },
+      {
+        "label": "Departamento de Administración",
+        "value": "Departamento de Administración",
+        "industry": "Educación"
+      },
+      {
+        "label": "Monitor de comedor y de ruta escolar",
+        "value": "Monitor de comedor y de ruta escolar",
+        "industry": "Educación"
+      },
+      {
+        "label": "Enfermería escolar",
+        "value": "Enfermería escolar",
+        "industry": "Educación"
+      },
+      {
+        "label": "Técnicos e Informáticos",
+        "value": "Técnicos e Informáticos",
+        "industry": "Educación"
+      },
+      {
+        "label": "Monitores de Actividades Extraescolares",
+        "value": "Monitores de Actividades Extraescolares",
+        "industry": "Educación"
+      },
+      {
+        "label": "Personal de limpieza",
+        "value": "Personal de limpieza",
+        "industry": "Educación"
+      },
+      {
+        "label": "Conserje",
+        "value": "Conserje",
+        "industry": "Educación"
+      },
+      {
+        "label": "Servicio al cliente",
+        "value": "Servicio al cliente",
+        "industry": "Servicio al cliente"
+      },
+      {
+        "label": "Servicio al cliente",
+        "value": "Servicio al cliente",
+        "industry": "Servicio al cliente"
+      },
+      {
+        "label": "Representante de servicio de atención al cliente",
+        "value": "Representante de servicio de atención al cliente",
+        "industry": "Servicio al cliente"
+      },
+      {
+        "label": "Dirección de Servicio al cliente",
+        "value": "Dirección de Servicio al cliente",
+        "industry": "Servicio al cliente"
+      },
+      {
+        "label": "Coordinación de Servicio al cliente",
+        "value": "Coordinación de Servicio al cliente",
+        "industry": "Servicio al cliente"
+      },
+      {
+        "label": "Analistas",
+        "value": "Analistas",
+        "industry": "Servicio al cliente"
+      },
+      {
+        "label": "Consultoría",
+        "value": "Consultoría",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Consultor",
+        "value": "Consultor",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Analista Funcional",
+        "value": "Analista Funcional",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Jefe de Proyectos",
+        "value": "Jefe de Proyectos",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Auditor IT",
+        "value": "Auditor IT",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Analista Business Intelligence \/ Big Data",
+        "value": "Analista Business Intelligence \/ Big Data",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Director de Desarrollo",
+        "value": "Director de Desarrollo",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Director de Sistemas de Información",
+        "value": "Director de Sistemas de Información",
+        "industry": "Consultoría"
+      },
+      {
+        "label": "Data",
+        "value": "Data",
+        "industry": "Data"
+      },
+      {
+        "label": "Data Scientist",
+        "value": "Data Scientist",
+        "industry": "Data"
+      },
+      {
+        "label": "Data Analyst o Analista de Datos",
+        "value": "Data Analyst o Analista de Datos",
+        "industry": "Data"
+      },
+      {
+        "label": "Chief Data Officer (CDO)",
+        "value": "Chief Data Officer (CDO)",
+        "industry": "Data"
+      },
+      {
+        "label": "Data Engineer",
+        "value": "Data Engineer",
+        "industry": "Data"
+      },
+      {
+        "label": "Data Manager",
+        "value": "Data Manager",
+        "industry": "Data"
+      },
+      {
+        "label": "Data Steward",
+        "value": "Data Steward",
+        "industry": "Data"
+      },
+      {
+        "label": "Citizen Data Scientist",
+        "value": "Citizen Data Scientist",
+        "industry": "Data"
+      },
+      {
+        "label": "Data Artist",
+        "value": "Data Artist",
+        "industry": "Data"
+      },
+      {
+        "label": "Diseño",
+        "value": "Diseño",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Diseñador\/a de UX",
+        "value": "Diseñador\/a de UX",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Diseñador\/a gráfico",
+        "value": "Diseñador\/a gráfico",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Diseñador\/a visual",
+        "value": "Diseñador\/a visual",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Artista de FX",
+        "value": "Artista de FX",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Artista de producción",
+        "value": "Artista de producción",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Artista de concepto de juego",
+        "value": "Artista de concepto de juego",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Artista de personajes\/entornos",
+        "value": "Artista de personajes\/entornos",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Diseñador\/a de arte",
+        "value": "Diseñador\/a de arte",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Diseñador\/a de web",
+        "value": "Diseñador\/a de web",
+        "industry": "Diseño"
+      },
+      {
+        "label": "Desarrollo",
+        "value": "Desarrollo",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Desarrolladores de Software",
+        "value": "Desarrolladores de Software",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Full Stack Developers",
+        "value": "Full Stack Developers",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Backend Developer",
+        "value": "Backend Developer",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Frontend Developer",
+        "value": "Frontend Developer",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "QA Analyst",
+        "value": "QA Analyst",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Gestión\/Liderazgo",
+        "value": "Gestión\/Liderazgo",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Sistemas (Redes, Base de Datos, Soporte, etc)",
+        "value": "Sistemas (Redes, Base de Datos, Soporte, etc)",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Analista Funcional",
+        "value": "Analista Funcional",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Comerciales",
+        "value": "Comerciales",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Digital Marketing",
+        "value": "Digital Marketing",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Devops",
+        "value": "Devops",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Business Intelligence",
+        "value": "Business Intelligence",
+        "industry": "Desarrollo"
+      },
+      {
+        "label": "Comunicación ",
+        "value": "Comunicación ",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Analista de marca y comunicación",
+        "value": "Analista de marca y comunicación",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Cinematografía",
+        "value": "Cinematografía",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Comunicación gráfica",
+        "value": "Comunicación gráfica",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Diseño gráfico ",
+        "value": "Diseño gráfico ",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Diseño y comunicación visual",
+        "value": "Diseño y comunicación visual",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Editor de contenidos ",
+        "value": "Editor de contenidos ",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Editor ",
+        "value": "Editor ",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Especialista en comunicación interna",
+        "value": "Especialista en comunicación interna",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Especialista en sonido",
+        "value": "Especialista en sonido",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Fotógrafo (a) ",
+        "value": "Fotógrafo (a) ",
+        "industry": "Comunicación "
+      },
+      {
+        "label": "Humanidades ",
+        "value": "Humanidades ",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Artes Visuales ",
+        "value": "Artes Visuales ",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Bibliotecología",
+        "value": "Bibliotecología",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Corrección de estilo ",
+        "value": "Corrección de estilo ",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Desarrollo y gestión intercultural",
+        "value": "Desarrollo y gestión intercultural",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Educación musical ",
+        "value": "Educación musical ",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Enseñanza de idiomas ",
+        "value": "Enseñanza de idiomas ",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Guionista",
+        "value": "Guionista",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Literatura Dramática y Teatro",
+        "value": "Literatura Dramática y Teatro",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Pedagogía",
+        "value": "Pedagogía",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Profesor de asignatura de humanidades",
+        "value": "Profesor de asignatura de humanidades",
+        "industry": "Humanidades "
+      },
+      {
+        "label": "Arquitectura",
+        "value": "Arquitectura",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Analista de inversión inmobiliaria",
+        "value": "Analista de inversión inmobiliaria",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Arquitecta (o)",
+        "value": "Arquitecta (o)",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Director de obra",
+        "value": "Director de obra",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Diseñador de interiores",
+        "value": "Diseñador de interiores",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Diseñador de instalaciones y estructuras",
+        "value": "Diseñador de instalaciones y estructuras",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Escenógrafo (a)",
+        "value": "Escenógrafo (a)",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Especialista en acústica",
+        "value": "Especialista en acústica",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Especialista en rehabilitación de edificaciones antiguas",
+        "value": "Especialista en rehabilitación de edificaciones antiguas",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Experto en domótica",
+        "value": "Experto en domótica",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Gestor inmobiliario",
+        "value": "Gestor inmobiliario",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Urbanista",
+        "value": "Urbanista",
+        "industry": "Arquitectura"
+      },
+      {
+        "label": "Food and beverages",
+        "value": "Food and beverages",
+        "industry": "Food and beverages"
+      },
+      {
+        "label": "Energía y recursos naturales",
+        "value": "Energía y recursos naturales",
+        "industry": "Energía y recursos naturales"
+      },
+      {
+        "label": "Manufactura",
+        "value": "Manufactura",
+        "industry": "Manufactura"
+      },
+      {
+        "label": "Industria automotriz",
+        "value": "Industria automotriz",
+        "industry": "Industria automotriz"
+      },
+      {
+        "label": "Cultura y entretenimiento",
+        "value": "Cultura y entretenimiento",
+        "industry": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Medios digitales",
+        "value": "Medios digitales",
+        "industry": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Televisión",
+        "value": "Televisión",
+        "industry": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Radio",
+        "value": "Radio",
+        "industry": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Editorial",
+        "value": "Editorial",
+        "industry": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Cine ",
+        "value": "Cine ",
+        "industry": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Seguros",
+        "value": "Seguros",
+        "industry": "Seguros"
+      },
+      {
+        "label": "Especialista de seguros",
+        "value": "Especialista de seguros",
+        "industry": "Seguros"
+      },
+      {
+        "label": "Perito de seguros",
+        "value": "Perito de seguros",
+        "industry": "Seguros"
+      },
+      {
+        "label": "Agente de seguros",
+        "value": "Agente de seguros",
+        "industry": "Seguros"
+      },
+      {
+        "label": "Transporte y Logística",
+        "value": "Transporte y Logística",
+        "industry": "Transporte y Logística"
+      },
+      {
+        "label": "Encargado de ruta",
+        "value": "Encargado de ruta",
+        "industry": "Transporte y Logística"
+      },
+      {
+        "label": "Importaciones",
+        "value": "Importaciones",
+        "industry": "Transporte y Logística"
+      },
+      {
+        "label": "Turismo y Hotelería",
+        "value": "Turismo y Hotelería",
+        "industry": "Turismo y Hotelería"
+      },
+      {
+        "label": "Asistente de hotelería",
+        "value": "Asistente de hotelería",
+        "industry": "Turismo y Hotelería"
+      },
+      {
+        "label": "Agente de viajes ",
+        "value": "Agente de viajes ",
+        "industry": "Turismo y Hotelería"
+      },
+      {
+        "label": " Impacto Social",
+        "value": " Impacto Social",
+        "industry": " Impacto Social"
+      },
+      {
+        "label": "Recaudación face to face",
+        "value": "Recaudación face to face",
+        "industry": " Impacto Social"
+      },
+      {
+        "label": "Trabajo en ONG´s",
+        "value": "Trabajo en ONG´s",
+        "industry": " Impacto Social"
+      }
+    ],
+    "languages": [
+      {
+        "label": "Inglés",
+        "value": "Inglés"
+      },
+      {
+        "label": "Chino mandarín ",
+        "value": "Chino mandarín "
+      },
+      {
+        "label": "Hindi",
+        "value": "Hindi"
+      },
+      {
+        "label": "Español",
+        "value": "Español"
+      },
+      {
+        "label": "Francés",
+        "value": "Francés"
+      },
+      {
+        "label": "Árabe",
+        "value": "Árabe"
+      },
+      {
+        "label": "Bengalí",
+        "value": "Bengalí"
+      },
+      {
+        "label": "Ruso",
+        "value": "Ruso"
+      },
+      {
+        "label": "Portugués",
+        "value": "Portugués"
+      },
+      {
+        "label": "Urdu",
+        "value": "Urdu"
+      }
+    ],
+    "experience": [
+      {
+        "label": "Word",
+        "value": "Word"
+      },
+      {
+        "label": "Excel",
+        "value": "Excel"
+      },
+      {
+        "label": "PowerPoint",
+        "value": "PowerPoint"
+      },
+      {
+        "label": "Outlook",
+        "value": "Outlook"
+      },
+      {
+        "label": "Access",
+        "value": "Access"
+      },
+      {
+        "label": "Office",
+        "value": "Office"
+      },
+      {
+        "label": "Otros",
+        "value": "Other"
+      }
+    ],
+    "industries": [
+      {
+        "label": "Negocios",
+        "value": "Negocios"
+      },
+      {
+        "label": "Operaciones\/Logística",
+        "value": "Operaciones\/Logística"
+      },
+      {
+        "label": "Producto",
+        "value": "Producto"
+      },
+      {
+        "label": "Impresión y publicación ",
+        "value": "Impresión y publicación "
+      },
+      {
+        "label": "Seguridad",
+        "value": "Seguridad"
+      },
+      {
+        "label": "Ventas",
+        "value": "Ventas"
+      },
+      {
+        "label": "Testing*",
+        "value": "Testing*"
+      },
+      {
+        "label": "Tecnología de la información",
+        "value": "Tecnología de la información"
+      },
+      {
+        "label": "Operativos",
+        "value": "Operativos"
+      },
+      {
+        "label": "Finanzas y Contabilidad",
+        "value": "Finanzas y Contabilidad"
+      },
+      {
+        "label": "Infraestructura y construcción",
+        "value": "Infraestructura y construcción"
+      },
+      {
+        "label": "Legal",
+        "value": "Legal"
+      },
+      {
+        "label": "Retail",
+        "value": "Retail"
+      },
+      {
+        "label": "Management",
+        "value": "Management"
+      },
+      {
+        "label": "Marketing",
+        "value": "Marketing"
+      },
+      {
+        "label": "Recursos Humanos",
+        "value": "Recursos Humanos"
+      },
+      {
+        "label": "Administración",
+        "value": "Administración"
+      },
+      {
+        "label": "Comercio",
+        "value": "Comercio"
+      },
+      {
+        "label": "Salud",
+        "value": "Salud"
+      },
+      {
+        "label": "Educación",
+        "value": "Educación"
+      },
+      {
+        "label": "Servicio al Cliente",
+        "value": "Servicio al Cliente"
+      },
+      {
+        "label": "Consultoría",
+        "value": "Consultoría"
+      },
+      {
+        "label": "Data*",
+        "value": "Data*"
+      },
+      {
+        "label": "Diseño",
+        "value": "Diseño"
+      },
+      {
+        "label": "Desarrollo*",
+        "value": "Desarrollo*"
+      },
+      {
+        "label": "Comunicación",
+        "value": "Comunicación"
+      },
+      {
+        "label": "Humanidades",
+        "value": "Humanidades"
+      },
+      {
+        "label": "Arquitectura",
+        "value": "Arquitectura"
+      },
+      {
+        "label": "Food & Beverages",
+        "value": "Food & Beverages"
+      },
+      {
+        "label": "Energía y recursos naturales",
+        "value": "Energía y recursos naturales"
+      },
+      {
+        "label": "Manufactura",
+        "value": "Manufactura"
+      },
+      {
+        "label": "Industria automotriz",
+        "value": "Industria automotriz"
+      },
+      {
+        "label": "Cultura y entretenimiento",
+        "value": "Cultura y entretenimiento"
+      },
+      {
+        "label": "Seguros",
+        "value": "Seguros"
+      },
+      {
+        "label": "Transporte y logística",
+        "value": "Transporte y logística"
+      },
+      {
+        "label": "Servicios públicos",
+        "value": "Servicios públicos"
+      },
+      {
+        "label": "Turismo y hotelería",
+        "value": "Turismo y hotelería"
+      },
+      {
+        "label": "Impacto social",
+        "value": "Impacto social"
+      }
+    ],
+    "education": [
+      {
+        "label": "Educación preescolar",
+        "value": "Basic Education"
+      },
+      {
+        "label": "Primaria",
+        "value": "Primary"
+      },
+      {
+        "label": "Secundaria",
+        "value": "Secondary"
+      },
+      {
+        "label": "Preparatoria/Bachillerato técnico",
+        "value": "High School"
+      },
+      {
+        "label": "Técnico Superior Universitario",
+        "value": "TSU"
+      },
+      {
+        "label": "Licenciatura",
+        "value": "Bachelor"
+      },
+      {
+        "label": "Posgrado",
+        "value": "Posgrado"
+      },
+      {
+        "label": "Máster",
+        "value": "Master"
+      }
+    ],
+    "documentsOptions": [
+      {
+        "label": "Documento migratorio",
+        "value": "Documento migratorio"
+      },
+      {
+        "label": "RFC",
+        "value": "RFC"
+      },
+      {
+        "label": "Número de seguridad social",
+        "value": "Social Security Number"
+      },
+      {
+        "label": "CV",
+        "value": "CV"
+      },
+      {
+        "label": "Acta de nacimiento",
+        "value": "Birth Certificate"
+      },
+      {
+        "label": "Certificado de educación",
+        "value": "Education Certificate"
+      },
+      {
+        "label": "Carta de antecedentes penales",
+        "value": "Penal Record Letter"
+      },
+      {
+        "label": "Comprobante de domicilio",
+        "value": "Address Proof"
+      },
+      {
+        "label": "Pasaporte vigente",
+        "value": "Valid Passport"
+      },
+      {
+        "label": "Licencia de conducir",
+        "value": "Driver License"
+      },
+      {
+        "label": "Tarjeta de circulación",
+        "value": "Card of Circulation"
+      },
+      {
+        "label": "Cartas de recomendación",
+        "value": "Recommendation Letters"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Mexico",
+        "value": "Mexico"
+      },
+      {
+        "label": "USA",
+        "value": "USA"
+      },
+      {
+        "label": "Canada",
+        "value": "Canada"
+      }
+    ],
+    "benefits": [
+      {
+        "label": "Pensión",
+        "value": "Pension"
+      },
+      {
+        "label": "Seguros",
+        "value": "Insurance"
+      },
+      {
+        "label": "Vacaciones",
+        "value": "Vacations"
+      },
+      {
+        "label": "Caja de compensación",
+        "value": "Compensation"
+      },
+      {
+        "label": "Otro",
+        "value": "Other"
+      }
+    ],
+    "skills": [
+      {
+        "label": "Inglés",
+        "value": "English"
+      },
+      {
+        "label": "Facilidad de expresión",
+        "value": "Fluent"
+      },
+      {
+        "label": "Hablar en público",
+        "value": "Public speaking"
+      }
+    ],
+    "functions": [
+      {
+        "label": "Acomodo de mercancía.",
+        "value": "Acomodo de mercancía."
+      },
+      {
+        "label": "Acomodo de Producto",
+        "value": "Acomodo de Producto"
+      },
+      {
+        "label": "Administración de controles de riesgos relevantes",
+        "value": "Administración de controles de riesgos relevantes"
+      },
+      {
+        "label": "Alertar de posibles transacciones fraudulentas",
+        "value": "Alertar de posibles transacciones fraudulentas"
+      },
+      {
+        "label": "Análisis y seguimiento de proyecciones.",
+        "value": "Análisis y seguimiento de proyecciones."
+      },
+      {
+        "label": "Analizar y dar seguimiento a clientes",
+        "value": "Analizar y dar seguimiento a clientes"
+      },
+      {
+        "label": "Apoyo en actividades administrativas.",
+        "value": "Apoyo en actividades administrativas."
+      },
+      {
+        "label": "Armado de Display, Trabajo en Línea de Producción",
+        "value": "Armado de Display, Trabajo en Línea de Producción"
+      },
+      {
+        "label": "Atención a usuarios internos y externos",
+        "value": "Atención a usuarios internos y externos"
+      },
+      {
+        "label": "Atender llamadas",
+        "value": "Atender llamadas"
+      },
+      {
+        "label": "Auditorías Internas \/ Externas",
+        "value": "Auditorías Internas \/ Externas"
+      },
+      {
+        "label": "Automatización de rituales y rutinas",
+        "value": "Automatización de rituales y rutinas"
+      },
+      {
+        "label": "Brindar la atención requerida por el cliente de manera eficaz",
+        "value": "Brindar la atención requerida por el cliente de manera eficaz"
+      },
+      {
+        "label": "Cálculo de impuestos",
+        "value": "Cálculo de impuestos"
+      },
+      {
+        "label": "Cálculo de SUA mensual y bimestral",
+        "value": "Cálculo de SUA mensual y bimestral"
+      },
+      {
+        "label": "Captura de información",
+        "value": "Captura de información"
+      },
+      {
+        "label": "Cierres contables mensuales y anuales.",
+        "value": "Cierres contables mensuales y anuales."
+      },
+      {
+        "label": "Consolidación de incidencias.",
+        "value": "Consolidación de incidencias."
+      },
+      {
+        "label": "Contactar vía telefónica a una cartera de clientes",
+        "value": "Contactar vía telefónica a una cartera de clientes"
+      },
+      {
+        "label": "Control de entradas y salidas de mercancía",
+        "value": "Control de entradas y salidas de mercancía"
+      },
+      {
+        "label": "Coordinación con equipos globales",
+        "value": "Coordinación con equipos globales"
+      },
+      {
+        "label": "Cotizaciones",
+        "value": "Cotizaciones"
+      },
+      {
+        "label": "Desarrollo de Analytic Data Management",
+        "value": "Desarrollo de Analytic Data Management"
+      },
+      {
+        "label": "Desarrollo de eventos sociales",
+        "value": "Desarrollo de eventos sociales"
+      },
+      {
+        "label": "Diagnosticar y documentar los incidentes y\/o requerimientos.",
+        "value": "Diagnosticar y documentar los incidentes y\/o requerimientos."
+      },
+      {
+        "label": "Ejecutar la estrategia de descatalogación de portafolios",
+        "value": "Ejecutar la estrategia de descatalogación de portafolios"
+      },
+      {
+        "label": "Elaboración de minutas",
+        "value": "Elaboración de minutas"
+      },
+      {
+        "label": "Elaboración de nóminas",
+        "value": "Elaboración de nóminas"
+      },
+      {
+        "label": "Elaboración de reporte de avances.",
+        "value": "Elaboración de reporte de avances."
+      },
+      {
+        "label": "Elaboración y seguimiento de KPI’s",
+        "value": "Elaboración y seguimiento de KPI’s"
+      },
+      {
+        "label": "Elaborar proceso de facturación y cobranza.",
+        "value": "Elaborar proceso de facturación y cobranza."
+      },
+      {
+        "label": "Generación y envío de diversos formatos para el pago de obligaciones",
+        "value": "Generación y envío de diversos formatos para el pago de obligaciones"
+      },
+      {
+        "label": "Generación y validación de CFDI",
+        "value": "Generación y validación de CFDI"
+      },
+      {
+        "label": "Generar soluciones y atención a los usuarios",
+        "value": "Generar soluciones y atención a los usuarios"
+      },
+      {
+        "label": "Generar y analizar reportes para diversos clientes",
+        "value": "Generar y analizar reportes para diversos clientes"
+      },
+      {
+        "label": "Gestión contable de reservas y resultados mensuales",
+        "value": "Gestión contable de reservas y resultados mensuales"
+      },
+      {
+        "label": "Gestión de documentos electrónicos",
+        "value": "Gestión de documentos electrónicos"
+      },
+      {
+        "label": "Gestión de sesiones y equipos de trabajo",
+        "value": "Gestión de sesiones y equipos de trabajo"
+      },
+      {
+        "label": "Gestión y control de riesgos de proveedores para LAM",
+        "value": "Gestión y control de riesgos de proveedores para LAM"
+      },
+      {
+        "label": "Identificar oportunidades comerciales",
+        "value": "Identificar oportunidades comerciales"
+      },
+      {
+        "label": "Levantamiento y asignación de tickets",
+        "value": "Levantamiento y asignación de tickets"
+      },
+      {
+        "label": "Llenado de Tolvas",
+        "value": "Llenado de Tolvas"
+      },
+      {
+        "label": "Manejo de bases de datos",
+        "value": "Manejo de bases de datos"
+      },
+      {
+        "label": "Maquila, cálculo y proceso de Nómina completo.",
+        "value": "Maquila, cálculo y proceso de Nómina completo."
+      },
+      {
+        "label": "Movimientos IMSS",
+        "value": "Movimientos IMSS"
+      },
+      {
+        "label": "Orientar a los clientes",
+        "value": "Orientar a los clientes"
+      },
+      {
+        "label": "Pólizas nóminas y provisiones",
+        "value": "Pólizas nóminas y provisiones"
+      },
+      {
+        "label": "Presentación de resultados mensuales",
+        "value": "Presentación de resultados mensuales"
+      },
+      {
+        "label": "Procesamiento de facturas",
+        "value": "Procesamiento de facturas"
+      },
+      {
+        "label": "Procesamiento de pago en portales bancarios",
+        "value": "Procesamiento de pago en portales bancarios"
+      },
+      {
+        "label": "Realizar movimientos del SUA",
+        "value": "Realizar movimientos del SUA"
+      },
+      {
+        "label": "Realizar proceso de cobranza",
+        "value": "Realizar proceso de cobranza"
+      },
+      {
+        "label": "Realizar reportes en Excel.",
+        "value": "Realizar reportes en Excel."
+      },
+      {
+        "label": "Realizará Publicación de vacantes",
+        "value": "Realizará Publicación de vacantes"
+      },
+      {
+        "label": "Recepción y acomodo de producto",
+        "value": "Recepción y acomodo de producto"
+      },
+      {
+        "label": "Reportar resultados al término del periodo",
+        "value": "Reportar resultados al término del periodo"
+      },
+      {
+        "label": "Resolver incidentes técnicos en línea",
+        "value": "Resolver incidentes técnicos en línea"
+      },
+      {
+        "label": "Revisar los porcentajes de contrato fijo",
+        "value": "Revisar los porcentajes de contrato fijo"
+      },
+      {
+        "label": "Seguimiento a correos.",
+        "value": "Seguimiento a correos."
+      },
+      {
+        "label": "Seguimiento contable",
+        "value": "Seguimiento contable"
+      },
+      {
+        "label": "Seguimiento de los Programas",
+        "value": "Seguimiento de los Programas"
+      },
+      {
+        "label": "Seguimiento semanal de resultados",
+        "value": "Seguimiento semanal de resultados"
+      },
+      {
+        "label": "Solucionar problemas del consumidor",
+        "value": "Solucionar problemas del consumidor"
+      },
+      {
+        "label": "Trato con proveedores",
+        "value": "Trato con proveedores"
+      },
+      {
+        "label": "Trato directo con empleados",
+        "value": "Trato directo con empleados"
+      }
+    ],
+    "status": [
+      {
+        "label": "Activas",
+        "value": "active"
+      },
+      {
+        "label": "Pausadas",
+        "value": "paused"
+      },
+      {
+        "label": "Cerradas",
+        "value": "closed"
+      }
+    ],
+    "genders": [
+      {
+        "label": "Mujer",
+        "value": "woman"
+      },
+      {
+        "label": "Hombre",
+        "value": "man"
+      },
+      {
+        "label": "No binario",
+        "value": "no-binary"
+      },
+      {
+        "label": "Mujer Trans",
+        "value": "trans-woman"
+      },
+      {
+        "label": "Hombre Trans",
+        "value": "trans-man"
+      },
+      {
+        "label": "Otro(a)",
+        "value": "other"
+      },
+      {
+        "label": "Prefiero no decir",
+        "value": "no-say"
+      }
+    ],
+    "married": [
+      {
+        "label": "Soltero/a",
+        "value": "single"
+      },
+      {
+        "label": "Casado/a",
+        "value": "married"
+      },
+      {
+        "label": "Viudo/a",
+        "value": "widower"
+      },
+      {
+        "label": "Separado/a",
+        "value": "separate"
+      },
+      {
+        "label": "Divorciado/a",
+        "value": "divorced"
+      },
+      {
+        "label": "Prefiero no decir",
+        "value": "no-say"
+      }
+    ]
+  }
+}

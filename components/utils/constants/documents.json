@@ -1,0 +1,54 @@
+[
+  {
+    "label": "Documento migratorio",
+    "value": "hasDocuments"
+  },
+  {
+    "label": "RFC",
+    "value": "rfc"
+  },
+  {
+    "label": "Número de seguridad social",
+    "value": "nss"
+  },
+  {
+    "label": "CV",
+    "value": "cv"
+  },
+  {
+    "label": "Acta nacimiento",
+    "value": "acta"
+  },
+  {
+    "label": "Comprobante domicilio",
+    "value": "comprobante"
+  },
+  {
+    "label": "Certificado educación",
+    "value": "gradeCertification"
+  },
+  {
+    "label": "Antecedentes penales",
+    "value": "criminalRecord"
+  },
+  {
+    "label": "Pasaporte válido",
+    "value": "passport"
+  },
+  {
+    "label": "Licencia de conducir",
+    "value": "licence"
+  },
+  {
+    "label": "Tarjeta circulación",
+    "value": "circulationCard"
+  },
+  {
+    "label": "Cartas de recomendación",
+    "value": "recommendationLetters"
+  },
+  {
+    "label": "CURP",
+    "value": "curp"
+  }
+]

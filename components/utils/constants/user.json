@@ -1,0 +1,724 @@
+{
+  "documents": [
+    {
+      "label": "Documento migratorio",
+      "value": "hasDocuments"
+    },
+
+    {
+      "label": "RFC",
+      "value": "rfc"
+    },
+
+    {
+      "label": "Número de seguridad socia",
+      "value": "nss"
+    },
+
+    {
+      "label": "CV",
+      "value": "cv"
+    },
+
+    {
+      "label": "Acta nacimiento",
+      "value": "acta"
+    },
+
+    {
+      "label": "Certificado educación",
+      "value": "gradeCertification"
+    },
+
+    {
+      "label": "Antecedentes penales",
+      "value": "criminalRecord"
+    },
+
+    {
+      "label": "Comprobante domicilio",
+      "value": "proofOfResidence"
+    },
+    {
+      "label": "Pasaporte válido",
+      "value": "passport"
+    },
+
+    {
+      "label": "Licencia de conducir",
+      "value": "licence"
+    },
+
+    {
+      "label": "Tarjeta circulación",
+      "value": "circulationCard"
+    },
+
+    {
+      "label": "Cartas de recomendación",
+      "value": "recommendationLetters"
+    }
+  ],
+  "languages": [
+    {
+      "label": "Alemán",
+      "value": "german"
+    },
+    {
+      "label": "Catalán",
+      "value": "catalan"
+    },
+    {
+      "label": "Español",
+      "value": "spanish"
+    },
+    {
+      "label": "Francés",
+      "value": "french"
+    },
+    {
+      "label": "Inglés",
+      "value": "english"
+    },
+    {
+      "label": "Japones",
+      "value": "japanese"
+    },
+    {
+      "label": "Mandarín",
+      "value": "mandarin"
+    },
+    {
+      "label": "Portugués",
+      "value": "portuguese"
+    },
+    {
+      "label": "Ruso",
+      "value": "russian"
+    },
+    {
+      "label": "Creole Haitiano",
+      "value": "creolehaitiano"
+    }
+  ],
+  "workDays": [
+    {
+      "label": "Lunes a Viernes",
+      "value": "Weekdays"
+    },
+    {
+      "label": "Semana completa - 6 días con 1 día libre (Rotativo)",
+      "value": "FullWeek"
+    },
+    {
+      "label": "Semana completa - 5 días con 2 día libre (Rotativo)",
+      "value": "FullWeek2"
+    }
+  ],
+  "workTime": [
+    { "label": "Tiempo completo (8 horas)", "value": "fullTime" },
+    { "label": "Medio tiempo (menos de 8 horas)", "value": "partTime" },
+    { "label": "Flexible", "value": "flexible" },
+    { "label": "Otro", "value": "other" }
+  ],
+  "workTurns": [
+    {
+      "label": "Horario diurno (8:00 a 8:00 hrs)",
+      "value": "Morning"
+    },
+    {
+      "label": "Nocturno (20:00 a 6:00 hrs)",
+      "value": "Evening"
+    },
+    {
+      "label": "Mixto (3.5 horas del turno nocturno y turno de día)",
+      "value": "Mixed"
+    }
+  ],
+  "modality": [
+    {
+      "label": "Remoto",
+      "value": "Remote"
+    },
+    {
+      "label": "Presencial",
+      "value": "Physical"
+    }
+  ],
+  "nationality": [
+    {
+      "label": "El Salvador",
+      "value": "salvador"
+    },
+    {
+      "label": "Guatemala",
+      "value": "Guatemala"
+    },
+    {
+      "label": "Haiti",
+      "value": "Haiti"
+    },
+    {
+      "label": "Cuba",
+      "value": "Cuba"
+    },
+    {
+      "label": "Honduras",
+      "value": "Honduras"
+    },
+    {
+      "label": "Venezuela",
+      "value": "Venezuela"
+    }
+  ],
+  "methodContact": [
+    {
+      "label": "WhatsApp",
+      "value": "whatsApp"
+    },
+    {
+      "label": "Correo electrónico",
+      "value": "email"
+    },
+    {
+      "label": "Ambas",
+      "value": "both"
+    }
+  ],
+  "education": [
+    {
+      "label": "Educación preescolar",
+      "value": "Basic Education"
+    },
+    {
+      "label": "Primaria",
+      "value": "Primary"
+    },
+    {
+      "label": "Secundaria",
+      "value": "Secondary"
+    },
+    {
+      "label": "Preparatoria/Bachillerato técnico",
+      "value": "High School"
+    },
+    {
+      "label": "Técnico Superior Universitario",
+      "value": "TSU"
+    },
+    {
+      "label": "Licenciatura",
+      "value": "Bachelor"
+    },
+    {
+      "label": "Posgrado",
+      "value": "Posgrado"
+    },
+    {
+      "label": "Máster",
+      "value": "Master"
+    },
+    {
+      "label": "Ninguno",
+      "value": "Unknown"
+    }
+  ],
+  "gender": [
+    { "label": "Mujer", "value": "woman" },
+    { "label": "Hombre", "value": "man" },
+    { "label": "No binario", "value": "no-binary" },
+    { "label": "Otro", "value": "other" },
+    { "label": "Prefiero no decir", "value": "no-say" }
+  ],
+  "married": [
+    { "label": "Soltero/a", "value": "single" },
+    { "label": "Casado/a", "value": "married" },
+    { "label": "Viudo/a", "value": "widower" },
+    { "label": "Separado/a", "value": "separate" },
+    { "label": "Divorciado/a", "value": "divorced" }
+  ],
+  "salaryMinimumCurrency": [
+    { "label": "USD", "value": "usd" },
+    { "label": "EUR", "value": "eur" },
+    { "label": "MXN", "value": "mxn" }
+  ],
+  "relationOfMe": [
+    { "label": "Padre / Madre", "value": "parents" },
+    { "label": "Abuelo / Abuela", "value": "grandparents" },
+    { "label": "Hijo / Hija", "value": "children" },
+    { "label": "Tio / Tia", "value": "siblings" },
+    { "label": "Sobrino / Sobrina", "value": "nephew" },
+    { "label": "Nieto / Nieta", "value": "grandson" },
+    { "label": "Amigo / Amiga", "value": "friends" },
+    { "label": "Esposo / Esposa", "value": "spouse" },
+    { "label": "Novio / Novia", "value": "bridegroom" }
+  ],
+  "experience": [
+    {
+      "label": "Word",
+      "value": "Word"
+    },
+    {
+      "label": "Excel",
+      "value": "Excel"
+    },
+    {
+      "label": "PowerPoint",
+      "value": "PowerPoint"
+    },
+    {
+      "label": "Outlook",
+      "value": "Outlook"
+    },
+    {
+      "label": "Access",
+      "value": "Access"
+    },
+    {
+      "label": "Office",
+      "value": "Office"
+    },
+    {
+      "label": "Otros",
+      "value": "Other"
+    }
+  ],
+  "industries": [
+    {
+      "label": "Negocios",
+      "value": "Negocios"
+    },
+    {
+      "label": "Operaciones\/Logística",
+      "value": "Operaciones\/Logística"
+    },
+    {
+      "label": "Producto",
+      "value": "Producto"
+    },
+    {
+      "label": "Impresión y publicación ",
+      "value": "Impresión y publicación "
+    },
+    {
+      "label": "Seguridad",
+      "value": "Seguridad"
+    },
+    {
+      "label": "Ventas",
+      "value": "Ventas"
+    },
+    {
+      "label": "Testing*",
+      "value": "Testing*"
+    },
+    {
+      "label": "Tecnología de la información",
+      "value": "Tecnología de la información"
+    },
+    {
+      "label": "Operativos",
+      "value": "Operativos"
+    },
+    {
+      "label": "Finanzas y Contabilidad",
+      "value": "Finanzas y Contabilidad"
+    },
+    {
+      "label": "Infraestructura y construcción",
+      "value": "Infraestructura y construcción"
+    },
+    {
+      "label": "Legal",
+      "value": "Legal"
+    },
+    {
+      "label": "Retail",
+      "value": "Retail"
+    },
+    {
+      "label": "Management",
+      "value": "Management"
+    },
+    {
+      "label": "Marketing",
+      "value": "Marketing"
+    },
+    {
+      "label": "Recursos Humanos",
+      "value": "Recursos Humanos"
+    },
+    {
+      "label": "Administración",
+      "value": "Administración"
+    },
+    {
+      "label": "Comercio",
+      "value": "Comercio"
+    },
+    {
+      "label": "Salud",
+      "value": "Salud"
+    },
+    {
+      "label": "Educación",
+      "value": "Educación"
+    },
+    {
+      "label": "Servicio al Cliente",
+      "value": "Servicio al Cliente"
+    },
+    {
+      "label": "Consultoría",
+      "value": "Consultoría"
+    },
+    {
+      "label": "Data*",
+      "value": "Data*"
+    },
+    {
+      "label": "Diseño",
+      "value": "Diseño"
+    },
+    {
+      "label": "Desarrollo*",
+      "value": "Desarrollo*"
+    },
+    {
+      "label": "Comunicación",
+      "value": "Comunicación"
+    },
+    {
+      "label": "Humanidades",
+      "value": "Humanidades"
+    },
+    {
+      "label": "Arquitectura",
+      "value": "Arquitectura"
+    },
+    {
+      "label": "Food & Beverages",
+      "value": "Food & Beverages"
+    },
+    {
+      "label": "Energía y recursos naturales",
+      "value": "Energía y recursos naturales"
+    },
+    {
+      "label": "Manufactura",
+      "value": "Manufactura"
+    },
+    {
+      "label": "Industria automotriz",
+      "value": "Industria automotriz"
+    },
+    {
+      "label": "Cultura y entretenimiento",
+      "value": "Cultura y entretenimiento"
+    },
+    {
+      "label": "Seguros",
+      "value": "Seguros"
+    },
+    {
+      "label": "Transporte y logística",
+      "value": "Transporte y logística"
+    },
+    {
+      "label": "Servicios públicos",
+      "value": "Servicios públicos"
+    },
+    {
+      "label": "Turismo y hotelería",
+      "value": "Turismo y hotelería"
+    },
+    {
+      "label": "Impacto social",
+      "value": "Impacto social"
+    }
+  ],
+  "skills": [
+    { "label": "BBVA México", "value": "bbva" },
+    { "label": "Santander", "value": "santander" },
+    { "label": "Banamex", "value": "banamex" },
+    { "label": "Banorte", "value": "banorte" },
+    { "label": "Scotiabank", "value": "scotiabank" },
+    { "label": "HSBC", "value": "hsbc" },
+    { "label": "Banco Azteca", "value": "azteca" },
+    { "label": "BanCoppel", "value": "coppel" },
+    { "label": "Inbursa", "value": "inbursa" }
+  ],
+  "groups": [
+    { "label": "Refugiado", "value": "Refugiado" },
+    { "label": "Migrante", "value": "Migrante" },
+    { "label": "Madre soltera", "value": "Madre soltera" },
+    { "label": "LGBTQI+", "value": "LGBTQI+" },
+    { "label": "Persona retornada", "value": "Persona retornada" },
+    { "label": "Mujer en situación de vulnerabilidad económica", "value": "Mujer en situación de vulnerabilidad económica" },
+    { "label": "Adulto mayor / 3ra edad", "value": "Adulto mayor / 3ra edad" },
+    { "label": "Persona con discapacidad", "value": "Persona con discapacidad" },
+    { "label": "Otro", "value": "Otro" }
+  ],
+  "functions": [
+    {
+      "label": "Acomodo de mercancía.",
+      "value": "Acomodo de mercancía."
+    },
+    {
+      "label": "Acomodo de Producto",
+      "value": "Acomodo de Producto"
+    },
+    {
+      "label": "Administración de controles de riesgos relevantes",
+      "value": "Administración de controles de riesgos relevantes"
+    },
+    {
+      "label": "Alertar de posibles transacciones fraudulentas",
+      "value": "Alertar de posibles transacciones fraudulentas"
+    },
+    {
+      "label": "Análisis y seguimiento de proyecciones.",
+      "value": "Análisis y seguimiento de proyecciones."
+    },
+    {
+      "label": "Analizar y dar seguimiento a clientes",
+      "value": "Analizar y dar seguimiento a clientes"
+    },
+    {
+      "label": "Apoyo en actividades administrativas.",
+      "value": "Apoyo en actividades administrativas."
+    },
+    {
+      "label": "Armado de Display, Trabajo en Línea de Producción",
+      "value": "Armado de Display, Trabajo en Línea de Producción"
+    },
+    {
+      "label": "Atención a usuarios internos y externos",
+      "value": "Atención a usuarios internos y externos"
+    },
+    {
+      "label": "Atender llamadas",
+      "value": "Atender llamadas"
+    },
+    {
+      "label": "Auditorías Internas \/ Externas",
+      "value": "Auditorías Internas \/ Externas"
+    },
+    {
+      "label": "Automatización de rituales y rutinas",
+      "value": "Automatización de rituales y rutinas"
+    },
+    {
+      "label": "Brindar la atención requerida por el cliente de manera eficaz",
+      "value": "Brindar la atención requerida por el cliente de manera eficaz"
+    },
+    {
+      "label": "Cálculo de impuestos",
+      "value": "Cálculo de impuestos"
+    },
+    {
+      "label": "Cálculo de SUA mensual y bimestral",
+      "value": "Cálculo de SUA mensual y bimestral"
+    },
+    {
+      "label": "Captura de información",
+      "value": "Captura de información"
+    },
+    {
+      "label": "Cierres contables mensuales y anuales.",
+      "value": "Cierres contables mensuales y anuales."
+    },
+    {
+      "label": "Consolidación de incidencias.",
+      "value": "Consolidación de incidencias."
+    },
+    {
+      "label": "Contactar vía telefónica a una cartera de clientes",
+      "value": "Contactar vía telefónica a una cartera de clientes"
+    },
+    {
+      "label": "Control de entradas y salidas de mercancía",
+      "value": "Control de entradas y salidas de mercancía"
+    },
+    {
+      "label": "Coordinación con equipos globales",
+      "value": "Coordinación con equipos globales"
+    },
+    {
+      "label": "Cotizaciones",
+      "value": "Cotizaciones"
+    },
+    {
+      "label": "Desarrollo de Analytic Data Management",
+      "value": "Desarrollo de Analytic Data Management"
+    },
+    {
+      "label": "Desarrollo de eventos sociales",
+      "value": "Desarrollo de eventos sociales"
+    },
+    {
+      "label": "Diagnosticar y documentar los incidentes y\/o requerimientos.",
+      "value": "Diagnosticar y documentar los incidentes y\/o requerimientos."
+    },
+    {
+      "label": "Ejecutar la estrategia de descatalogación de portafolios",
+      "value": "Ejecutar la estrategia de descatalogación de portafolios"
+    },
+    {
+      "label": "Elaboración de minutas",
+      "value": "Elaboración de minutas"
+    },
+    {
+      "label": "Elaboración de nóminas",
+      "value": "Elaboración de nóminas"
+    },
+    {
+      "label": "Elaboración de reporte de avances.",
+      "value": "Elaboración de reporte de avances."
+    },
+    {
+      "label": "Elaboración y seguimiento de KPI’s",
+      "value": "Elaboración y seguimiento de KPI’s"
+    },
+    {
+      "label": "Elaborar proceso de facturación y cobranza.",
+      "value": "Elaborar proceso de facturación y cobranza."
+    },
+    {
+      "label": "Generación y envío de diversos formatos para el pago de obligaciones",
+      "value": "Generación y envío de diversos formatos para el pago de obligaciones"
+    },
+    {
+      "label": "Generación y validación de CFDI",
+      "value": "Generación y validación de CFDI"
+    },
+    {
+      "label": "Generar soluciones y atención a los usuarios",
+      "value": "Generar soluciones y atención a los usuarios"
+    },
+    {
+      "label": "Generar y analizar reportes para diversos clientes",
+      "value": "Generar y analizar reportes para diversos clientes"
+    },
+    {
+      "label": "Gestión contable de reservas y resultados mensuales",
+      "value": "Gestión contable de reservas y resultados mensuales"
+    },
+    {
+      "label": "Gestión de documentos electrónicos",
+      "value": "Gestión de documentos electrónicos"
+    },
+    {
+      "label": "Gestión de sesiones y equipos de trabajo",
+      "value": "Gestión de sesiones y equipos de trabajo"
+    },
+    {
+      "label": "Gestión y control de riesgos de proveedores para LAM",
+      "value": "Gestión y control de riesgos de proveedores para LAM"
+    },
+    {
+      "label": "Identificar oportunidades comerciales",
+      "value": "Identificar oportunidades comerciales"
+    },
+    {
+      "label": "Levantamiento y asignación de tickets",
+      "value": "Levantamiento y asignación de tickets"
+    },
+    {
+      "label": "Llenado de Tolvas",
+      "value": "Llenado de Tolvas"
+    },
+    {
+      "label": "Manejo de bases de datos",
+      "value": "Manejo de bases de datos"
+    },
+    {
+      "label": "Maquila, cálculo y proceso de Nómina completo.",
+      "value": "Maquila, cálculo y proceso de Nómina completo."
+    },
+    {
+      "label": "Movimientos IMSS",
+      "value": "Movimientos IMSS"
+    },
+    {
+      "label": "Orientar a los clientes",
+      "value": "Orientar a los clientes"
+    },
+    {
+      "label": "Pólizas nóminas y provisiones",
+      "value": "Pólizas nóminas y provisiones"
+    },
+    {
+      "label": "Presentación de resultados mensuales",
+      "value": "Presentación de resultados mensuales"
+    },
+    {
+      "label": "Procesamiento de facturas",
+      "value": "Procesamiento de facturas"
+    },
+    {
+      "label": "Procesamiento de pago en portales bancarios",
+      "value": "Procesamiento de pago en portales bancarios"
+    },
+    {
+      "label": "Realizar movimientos del SUA",
+      "value": "Realizar movimientos del SUA"
+    },
+    {
+      "label": "Realizar proceso de cobranza",
+      "value": "Realizar proceso de cobranza"
+    },
+    {
+      "label": "Realizar reportes en Excel.",
+      "value": "Realizar reportes en Excel."
+    },
+    {
+      "label": "Realizará Publicación de vacantes",
+      "value": "Realizará Publicación de vacantes"
+    },
+    {
+      "label": "Recepción y acomodo de producto",
+      "value": "Recepción y acomodo de producto"
+    },
+    {
+      "label": "Reportar resultados al término del periodo",
+      "value": "Reportar resultados al término del periodo"
+    },
+    {
+      "label": "Resolver incidentes técnicos en línea",
+      "value": "Resolver incidentes técnicos en línea"
+    },
+    {
+      "label": "Revisar los porcentajes de contrato fijo",
+      "value": "Revisar los porcentajes de contrato fijo"
+    },
+    {
+      "label": "Seguimiento a correos.",
+      "value": "Seguimiento a correos."
+    },
+    {
+      "label": "Seguimiento contable",
+      "value": "Seguimiento contable"
+    },
+    {
+      "label": "Seguimiento de los Programas",
+      "value": "Seguimiento de los Programas"
+    },
+    {
+      "label": "Seguimiento semanal de resultados",
+      "value": "Seguimiento semanal de resultados"
+    },
+    {
+      "label": "Solucionar problemas del consumidor",
+      "value": "Solucionar problemas del consumidor"
+    },
+    {
+      "label": "Trato con proveedores",
+      "value": "Trato con proveedores"
+    },
+    {
+      "label": "Trato directo con empleados",
+      "value": "Trato directo con empleados"
+    }
+  ]
+}
